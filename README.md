@@ -1,21 +1,22 @@
-Mini Drawing App
+# Pixel Playground
 
-A simple browser-based drawing application built with HTML5 Canvas and JavaScript. It allows users to draw freely using mouse or touch, choose different colors, and clear the canvas — similar to a basic version of Microsoft Paint.
+Pixel Playground is a simple web-based mini paint app that allows users to draw on a canvas using their mouse or touch input. You can select your preferred color and clear the canvas at any time.
 
-Features
-1)🖌️ Freehand drawing with mouse or touch
-2)🎨 Color picker for selecting brush color
-3)🧹 Clear canvas button to erase all drawings
-4)🖼️ Responsive canvas with styled UI
+## Features
+- Draw on a canvas using mouse or touch
+- Color picker to choose your drawing color
+- Clear button to reset the canvas
+- Responsive and clean UI
 
-Technologies Used
-1)HTML5
-2)CSS3
-3)JavaScript (Vanilla)
+## Getting Started
+1. Clone the repository:
+   ```sh
+   git clone https://github.com/NalgondaLokesh/pixelplayground.git
+   ```
+2. Open the `index.html` file in your web browser.
 
-How to Use
-1) Clone or download the repository.
-2) Open the index.html file in any modern web browser.
-3) Use your mouse or touchscreen to draw on the canvas.
-4) Select a different color using the color picker.
-5) Click the "Clear" button to reset the canvas.
+## Project Structure
+- `index.html` - Main HTML file containing the app and all logic/styles
+
+## Author
+A project by Nalgonda Lokesh
